@@ -1,0 +1,6 @@
+a=int(input("enter value of a"))
+b=int(input("enter value of b"))
+(a,b)=(b,a)
+print("original value is : ",a )
+print("original value is : ",b )
+# print("swapped value is : ",)
