@@ -16,6 +16,6 @@ print(a);
 a*=10
 print(a);
 
-#a=a%2
+#a=a%2  
 a%=2
 print(a);
