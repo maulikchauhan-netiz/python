@@ -17,3 +17,11 @@ while num>=1:
     print(num)
     num-=1    
 print("===============")
+#for loop 
+food=["pizza","golgappa","cake"]
+for i in food:
+    print(i)
+college=["atmiya","marwadi","darshan"] 
+for eachcollege in college:
+    print("college visited by maulik chauhan are : ",eachcollege)   
+  
