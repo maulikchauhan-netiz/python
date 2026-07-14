@@ -23,5 +23,4 @@ while True:
         print("3.view total spending")
         print("4.exit")
 
-if choice==1:
-     print        
+   
