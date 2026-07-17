@@ -28,3 +28,15 @@ def details(name,age):
     print(f"my namae is the {name} and my age is the {age}");
 details("maulik",20)
 
+#practice 4
+def mul(a=10,b=10):
+    return a*b;
+result=mul(a=20,b=30)
+print("the multiplication of the ",result)    
+
+#practice 5
+def square(num):
+    return num*num;
+result=square(5)
+print("the square of the number is ",result)
+
